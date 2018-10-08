@@ -55,7 +55,7 @@ Pasinaudok atvirais Vilniaus miesto duomenimis:
 *	[Vilniaus miesto savivaldybės serveris](https://atviras.vplanas.lt/arcgis/rest/services)
 *	[Pasaulio Gyvojo Atlaso duomenis](https://livingatlas.arcgis.com/en/browse/#d=1)
 *	[Duomenys, kuriuos rekomenduoja Maps.lt](http://mapslt.maps.arcgis.com/home/index.html) 
-*	Įdomesnių Vilniaus duomenų servisus rasi [čia] (dokumente žemiau)
+*	Įdomesnių Vilniaus duomenų servisus [rasi čia](http://github.com/HNIT-Baltic/Hack4Vilnius/tree/master/%C4%AEdomesni%20servisai)
 
 ## Kokie yra GIS mokymosi resursai?
 Pradėk nuo trumpų užduočių pasirinkdamas platformą ir verslo uždavinį. Užduotis atlikti užtruksi tik 5-15 minučių, tačiau jau turėsi tvirtus pagrindus tolimesniam GIS uždavinio vystymui.
