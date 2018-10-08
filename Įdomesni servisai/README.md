@@ -3,7 +3,7 @@
 2.	[Inžinerinės komunikacijos](https://zemelapiai.vplanas.lt/arcgis/rest/services/Infrastruktura)
 3.	Darželiai, mokyklos, miesto tvarkymas, reklamos, pastatų administravimas, civilinė sauga, rinkliavos zonos ir pan. duomenys:
     * https://zemelapiai.vplanas.lt/arcgis/rest/services/Interaktyvus_zemelapis
-    * https://zemelapiai.vplanas.lt/arcgis/rest/services/Open_Data)
+    * https://zemelapiai.vplanas.lt/arcgis/rest/services/Open_Data
 4.	[Mokyklų stadionai](https://zemelapiai.vplanas.lt/arcgis/rest/services/Mokyklu_stadionu_app/Mokyklu_stadionai_app/MapServer)
 5.	[Eismo įvykiai/juodosios dėmės](https://atviras.vplanas.lt/arcgis/rest/services/Juodosios_demes)
 6.	[Reklaminiai įrenginiai](https://atviras.vplanas.lt/arcgis/rest/services/Reklaminiai_irenginiai/Reklaminiai_irenginiai/MapServer)
