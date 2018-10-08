@@ -1,7 +1,9 @@
-Įdomesni servisai:
+## Įdomesni servisai:
 1.	[Pagrindo žemėlapiai](https://zemelapiai.vplanas.lt/arcgis/rest/services/Baziniai_zemelapiai)
 2.	[Inžinerinės komunikacijos](https://zemelapiai.vplanas.lt/arcgis/rest/services/Infrastruktura)
-3.	[Darželiai, mokyklos, miesto tvarkymas, reklamos, pastatų administravimas, civilinė sauga, rinkliavos zonos ir pan. duomenys](https://zemelapiai.vplanas.lt/arcgis/rest/services/Interaktyvus_zemelapis arba https://zemelapiai.vplanas.lt/arcgis/rest/services/Open_Data)
+3.	Darželiai, mokyklos, miesto tvarkymas, reklamos, pastatų administravimas, civilinė sauga, rinkliavos zonos ir pan. duomenys:
+    * https://zemelapiai.vplanas.lt/arcgis/rest/services/Interaktyvus_zemelapis
+    * https://zemelapiai.vplanas.lt/arcgis/rest/services/Open_Data)
 4.	[Mokyklų stadionai](https://zemelapiai.vplanas.lt/arcgis/rest/services/Mokyklu_stadionu_app/Mokyklu_stadionai_app/MapServer)
 5.	[Eismo įvykiai/juodosios dėmės](https://atviras.vplanas.lt/arcgis/rest/services/Juodosios_demes)
 6.	[Reklaminiai įrenginiai](https://atviras.vplanas.lt/arcgis/rest/services/Reklaminiai_irenginiai/Reklaminiai_irenginiai/MapServer)
@@ -14,7 +16,7 @@
     * https://atviras.vplanas.lt/arcgis/rest/services/3D_Reljefas
     * https://atviras.vplanas.lt/arcgis/rest/services/3D_TP_P
     * https://atviras.vplanas.lt/arcgis/rest/services/3D_TP_R
-10.	[Geoprocesingo įrankiai](https://atviras.vplanas.lt/arcgis/rest/services/Geoprocesingai))
+10.	[Geoprocesingo įrankiai](https://atviras.vplanas.lt/arcgis/rest/services/Geoprocesingai)
 11.	[Lokatoriai](https://zemelapiai.vplanas.lt/arcgis/rest/services/Lokatoriai)
 12.	[Grafiti duomenys](https://atviras.vplanas.lt/arcgis/rest/services/Grafiti)
 13.	[Jaunimo veikla](https://atviras.vplanas.lt/arcgis/rest/services/Jaunimo_veikla)
