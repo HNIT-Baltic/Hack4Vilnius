@@ -24,7 +24,6 @@
 *	Panaudotas ir pritaikytas Vilniaus pagrindo žemėlapis; 
 *	Panaudoti Vilniaus miesto GIS duomenys (servisai);
 *	Pritaikytas bent vienas GIS analizės servisas ([maršruto sudarymas, pasiekiamumas, įvykių sumavimas, kiti GIS analizės servisai]( https://developers.arcgis.com/rest/location-based-services));
-*	Pritaikytas bent vienas GIS analizės servisas. (maršruto sudarymas, pasiekiamumas, įvykių sumavimas ir pan.);
 *	Žemėlapio funkcionalumo reikšmė sprendimui (ar tai tik vizualizavimo priemonė, ar būtinas elementas).
 
 ## GIS versus ......?
