@@ -18,7 +18,7 @@
 
 ## Prizas
 
-„Esri eksperto nominacija“ – 250 eurų už geriausią GIS‘o pritaikymą inovatyviuose sprendimuose. Prizą įsteigė oficialus Esri Inc. atstovas Baltijos šalims „Hnit-Baltic“.
+„GIS ekspertai“ nominacija – 250 eurų už geriausią GIS‘o pritaikymą inovatyviuose sprendimuose. Prizą įsteigė oficialus Esri Inc. atstovas Baltijos šalims „Hnit-Baltic“.
 
 #### Vertinimo kriterijai: 
 *	Panaudotas ir pritaikytas Vilniaus pagrindo žemėlapis; 
