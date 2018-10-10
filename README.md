@@ -3,7 +3,6 @@
 ## Turinys
 
 - [Prizas ir vertinimo kriterijai](#prizas)
-- [GIS versus ......?](#gis-versus-)
 - [ArcGIS for Developers privalumai](#arcgis-for-developers-privalumai)
 - [Kokie yra GIS uždaviniai?](#kokie-yra-gis-uždaviniai)
 - [Kur gauti GIS duomenis?](#kur-gauti-gis-duomenis)
@@ -17,7 +16,6 @@
 - [Tai nuo ko gi pradėti?](#tai-nuo-ko-gi-pradėti)
 
 ## Prizas
-
 „GIS ekspertai“ nominacija – 250 eurų už geriausią GIS‘o pritaikymą inovatyviuose sprendimuose hakatone [„Hack4Vilnius“](http://www.hack4vilnius.lt). Prizą įsteigė oficialus Esri Inc. atstovas Baltijos šalims „Hnit-Baltic“.
 
 #### Vertinimo kriterijai: 
@@ -25,9 +23,6 @@
 *	Panaudoti Vilniaus miesto GIS duomenys (servisai);
 *	Pritaikytas bent vienas GIS analizės servisas ([maršruto sudarymas, pasiekiamumas, įvykių sumavimas, kiti GIS analizės servisai]( https://developers.arcgis.com/rest/location-based-services));
 *	Žemėlapio funkcionalumo reikšmė sprendimui (ar tai tik vizualizavimo priemonė, ar būtinas elementas).
-
-## GIS versus ......?
-Ten kur atsakymo neranda įvairios ataskaitos, į klausimą gali atsakyti vienas žvilgsnis į žemėlapio vaizdą. Kur geriausią statyti prekybos centrą? Kodėl vandentiekio avarijos įvyksta šiame rajone? Kuriame rajone didžiausias nusikalstamumas ir kas tai lemia? Šiuos ir kitus klausimus gali išspręsti GIS analizė ir žemėlapis.
 
 ## ArcGIS for Developers [privalumai](https://bit.ly/2noiFHZ):
 *	Esri APIs ir SDKs yra pritaikyti visoms internetinėms, vietinėms (native) ir mobilioms platformoms
